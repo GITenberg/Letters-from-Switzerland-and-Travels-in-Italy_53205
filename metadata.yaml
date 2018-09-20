@@ -1,0 +1,39 @@
+_repo: Letters-from-Switzerland-and-Travels-in-Italy_53205
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Morrison, A. J. W. (Alexander James William)
+    alias: Morrison, Alexander James William
+    birthdate: 1806
+    deathdate: 1865
+    gutenberg_agent_id: '36435'
+    url: http://www.gutenberg.org/2009/agents/36435
+creator:
+  author:
+    agent_name: Goethe, Johann Wolfgang von
+    aliases:
+    - Von Goethe, Johann Wolfgang
+    - Goethe, J. W. (Johann Wolfgang)
+    birthdate: 1749
+    deathdate: 1832
+    gutenberg_agent_id: '586'
+    url: http://www.gutenberg.org/2009/agents/586
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+description: ''
+gutenberg_issued: '2016-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53205'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Switzerland -- Description and travel'
+- !lcsh 'Goethe, Johann Wolfgang von, 1749-1832 -- Travel -- Italy'
+- !lcsh 'Goethe, Johann Wolfgang von, 1749-1832 -- Travel -- Switzerland'
+- !lcsh 'Italy -- Description and travel'
+- !lcc 'PT'
+- GITenberg
+title: Letters from Switzerland and Travels in Italy
+url: http://www.gutenberg.org/ebooks/53205
